@@ -1,5 +1,4 @@
-# my_first_project
-My project files
+
 # This is the README file for my_first_project
 The folders in this project are: 
 
